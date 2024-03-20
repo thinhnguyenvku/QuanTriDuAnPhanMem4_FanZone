@@ -1,0 +1,25 @@
+2023/06/12-23:56:03.122 e20 Reusing MANIFEST C:\Users\ADMIN\AppData\Local\Temp\flutter_tools.f5d445f7\flutter_tools_chrome_device.8ad29d8a\Default\IndexedDB\http_localhost_62568.indexeddb.leveldb/MANIFEST-000001
+2023/06/12-23:56:03.122 e20 Recovering log #4
+2023/06/12-23:56:03.123 e20 Reusing old log C:\Users\ADMIN\AppData\Local\Temp\flutter_tools.f5d445f7\flutter_tools_chrome_device.8ad29d8a\Default\IndexedDB\http_localhost_62568.indexeddb.leveldb/000004.log 
+2023/06/12-23:56:03.145 e20 Level-0 table #8: started
+2023/06/12-23:56:03.167 e20 Level-0 table #8: 5377 bytes OK
+2023/06/12-23:56:03.185 e20 Delete type=0 #4
+2023/06/12-23:56:03.186 212c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/12-23:56:41.603 bec Compacting 1@1 + 1@2 files
+2023/06/12-23:56:41.612 bec Generated table #9@1: 42 keys, 3655 bytes
+2023/06/12-23:56:41.612 bec Compacted 1@1 + 1@2 files => 3655 bytes
+2023/06/12-23:56:41.625 bec compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/12-23:56:41.625 bec Delete type=2 #5
+2023/06/12-23:56:41.625 bec Delete type=2 #8
+2023/06/13-01:13:49.933 bec Level-0 table #11: started
+2023/06/13-01:13:49.945 bec Level-0 table #11: 7032 bytes OK
+2023/06/13-01:13:49.955 bec Delete type=0 #7
+2023/06/13-01:13:49.955 bec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/13-01:13:49.955 bec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x004\x00r\x00Z\x006\x00C\x00y\x00F\x00Q\x00S\x009\x00V\x00B\x00y\x00O\x00F\x00J\x00W\x00h\x00h\x000\x00q\x00s\x00x\x00v\x00Z\x00g\x00u\x00p\x00a\x00n\x00u\x00w\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 192 : 1
+2023/06/13-01:13:49.955 bec Compacting 1@1 + 1@2 files
+2023/06/13-01:13:49.965 bec Generated table #12@1: 36 keys, 3607 bytes
+2023/06/13-01:13:49.965 bec Compacted 1@1 + 1@2 files => 3607 bytes
+2023/06/13-01:13:49.972 bec compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/13-01:13:49.973 bec Delete type=2 #9
+2023/06/13-01:13:49.973 bec Delete type=2 #11
+2023/06/13-01:13:49.974 bec Manual compaction at level-1 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x004\x00r\x00Z\x006\x00C\x00y\x00F\x00Q\x00S\x009\x00V\x00B\x00y\x00O\x00F\x00J\x00W\x00h\x00h\x000\x00q\x00s\x00x\x00v\x00Z\x00g\x00u\x00p\x00a\x00n\x00u\x00w\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 192 : 1 .. (end); will stop at (end)
